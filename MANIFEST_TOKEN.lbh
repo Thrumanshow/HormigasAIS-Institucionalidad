@@ -1,0 +1,38 @@
+================================================================================
+MANIFIESTO DE ORIGEN Y SELLO TEMPORAL - HORMIGASAIS
+================================================================================
+ENTIDAD: HormigasAIS
+PROTOCOLO: LBH / HMAC-SHA256
+FECHA DE SELLADO: 2026-07-11 05:02:56 UTC
+DOMINIO VINCULADO: hormigasais.com
+ORIGEN DE FIRMA: Identidad CLHQ (Nodo Maestro A16-SanMiguel-SV)
+DOI: 10.5281/zenodo.19177759
+
+HASH DEL CONTENIDO (SHA-256 de los 6 bloques concatenados):
+SHA256:06c56d4cfa113c1a8dbd8c4df030bb2963933b6cbbccf62bb3d072888aae2883
+
+FIRMA DIGITAL LBH (HMAC-SHA256):
+HMAC:af14387d5928272c0cc7b495c19911c97fc3a061c5c760b797bce35540b5ebb3
+
+BLOQUES SELLADOS:
+1. BLOQUE_1_MARCA.md         — Política de Marcas Registradas
+2. BLOQUE_2_ENTERPRISE.md    — Oferta Enterprise y Soberanía
+3. BLOQUE_3_CLASES_NIZA.md   — Clasificación Internacional IP
+4. BLOQUE_4_LOGO.md          — Propiedad Visual y Logotipo
+5. BLOQUE_5_SUBMARCAS.md     — Nodos y Submarcas Oficiales
+6. BLOQUE_6_MESENTERY.md     — Licencia Envolvente Mesentery v1.0
+
+DECLARACIÓN:
+Cualquier modificación, por mínima que sea, en los archivos que componen
+este repositorio destruirá la validez de este hash, demostrando
+manipulación posterior a la fecha de sellado indicada.
+
+CADENA DE CUSTODIA PÚBLICA:
+- GitHub: github.com/Thrumanshow/HormigasAIS-Institucionalidad
+- Dominio: hormigasais.com
+- Docs: docs.hormigasais.com/legal.html
+- PyPI: pypi.org/project/lbh-sdk/
+- npm: npmjs.com/package/lbh-sdk-hormigasais
+================================================================================
+CERT::LBH-MANIFEST-V1-CLHQ
+================================================================================
